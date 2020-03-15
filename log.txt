@@ -1,0 +1,17 @@
+commit 29bc056c5e553e2daad508539449c967a7888a42
+Author: dkimber122 <dkimber122@gmail.com>
+Date:   Sun Mar 15 03:47:30 2020 -0400
+
+    added gitignore
+
+commit 34a1277bae338d4b40c3ed4e9b8d138689614048
+Author: dkimber122 <dkimber122@gmail.com>
+Date:   Sun Mar 15 03:35:43 2020 -0400
+
+    added two files
+
+commit 94e0da991789718be8142147c30d89123d60948b
+Author: dkimber122 <dkimber122@gmail.com>
+Date:   Sun Mar 15 03:32:27 2020 -0400
+
+    added readme.txt
